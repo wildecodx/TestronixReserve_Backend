@@ -1,5 +1,5 @@
 <h2>🔥 Testronix Reserve Backend Using Laravel 🔥 </h2>
-<p>This project made on internship day.</p>
+<p>This project made on internship day. SupSoft Technologies</p>
   <img src="/public/visual-work.png" alt="visual work">
 <p>How to use?</p>
 <ul>
