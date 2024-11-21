@@ -1,6 +1,7 @@
 <h2>🔥 Testronix Reserve Backend Using Laravel 🔥 </h2>
 <p>This project made on internship day. SupSoft Technologies</p>
-  <img src="/public/visual-work.png" alt="visual work">
+  <img src="/public/Web and Tablet" alt="UI1">
+   <img src="/public/Web and Tablet2" alt="UI2">
 <p>How to use?</p>
 <ul>
   <li>You just need to download the zip and extract it. After that download composer and install it for the dependencies.</p>
