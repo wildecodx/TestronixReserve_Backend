@@ -39,5 +39,3 @@
 <p>GET - http://127.0.0.1:8000/api/auth/me  | Profile User.</p>
 
 <p>👏 Thanks for all the collaborators who made this project and get this things done. This project will not be finished without your help</p>
-
-> > > > > > > 7fccb17c0e9ea78601f2a0ccb4c83eb1309322f8
